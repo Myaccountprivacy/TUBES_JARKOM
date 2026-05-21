@@ -8,4 +8,5 @@ assets/
 *.mp4
 *.code-workspace
 *.csv
-/proxy_cache
+proxy_cache/
+status/
