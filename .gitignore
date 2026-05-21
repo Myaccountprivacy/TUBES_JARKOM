@@ -10,3 +10,4 @@ assets/
 *.csv
 proxy_cache/
 status/
+css/
