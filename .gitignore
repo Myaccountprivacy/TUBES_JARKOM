@@ -1,0 +1,11 @@
+html/
+assets/
+*.log
+*.html
+*.css
+*.js
+*.png
+*.mp4
+*.code-workspace
+*.csv
+/proxy_cache
